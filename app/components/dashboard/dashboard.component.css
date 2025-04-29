@@ -1,0 +1,18 @@
+canvas {
+    max-width: 100%;
+}
+
+.nav-tabs .nav-link {
+    cursor: pointer;
+}
+
+.btn-link {
+    font-size: 1.05rem;
+    font-weight: 500;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+canvas {
+    transition: all 0.3s ease-in-out;
+}
